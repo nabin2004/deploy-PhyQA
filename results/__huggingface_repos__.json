@@ -1,0 +1,1 @@
+{"repos": [{"repoId": "google/gemma-3-1b-it", "repoType": "model", "commitHash": "dcc83ea841ab6100d6b47a070329e1ba4cf78752", "filePaths": ["special_tokens_map.json", "tokenizer_config.json", "tokenizer.json", "added_tokens.json", "generation_config.json", "model.safetensors", "config.json", "tokenizer.model"]}]}
